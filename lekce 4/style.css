@@ -1,0 +1,84 @@
+body {
+font-style: 30px;
+background-color: white;
+border: 30px solid darkblue;
+}
+
+      h1 {
+color:darkblue; 
+font-style:Arial;
+font-size: 2em;
+text-align: center;
+margin-left: 380px; 
+text-align: left;
+background-color: white;
+} 
+
+      h2 {
+color:darkblue; 
+font-style: Arial;
+font-size: 1em;
+text-align: left;
+background-color: white;
+text-align: left;
+}   
+
+      p {
+font-family:Arial; 
+margin-left: inherit;
+background-color: white;  
+text-align: left;
+}
+
+        #pytel_penez {
+background-color: white; 
+line-height: 1,5em; 
+text-align:left;  
+text-align: left;
+}
+
+        #soutezeni {
+background-color:white; 
+line-height: 1,5em; 
+text-align:left;  
+text-align: left;
+}
+
+        #konec {
+background-color:white; 
+line-height: 1,5em; 
+text-align:left; 
+text-align: left;
+}
+
+        .zanr {
+text-align: left;
+background-color: darkblue;
+color: white;
+text-align: left;
+}
+
+        .autor {
+font-weight: bolder;
+background-color: white;
+color: darkblue;
+text-align: left;
+}
+
+        .name {
+font-weight: bolder;
+background-color: white;
+color: darkblue;
+text-align: left;
+}
+
+        .zdroj {
+font-weight: bolder;
+background-color: white;
+color: darkblue;
+text-align: left;
+}
+
+#obrazek {
+	margin-left: 310px;
+}
