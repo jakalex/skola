@@ -1,0 +1,110 @@
+html {
+background: url('https://www.designerblogs.com/wp-content/uploads/2014/01/homemadehearts-3C.jpg') repeat center center fixed;
+background-size:cover;
+
+ }
+
+div {
+        display: block;
+        width: 550px;
+        position:absolute;
+        left: 30.5%;
+        right: 34%;
+        overflow:visible;
+        justify-content: center
+    }
+li {
+        width: 500px;
+        left: 30%;
+        right: 60%;
+    }
+
+    p {
+        color: black;
+        text-align: justify; 
+        line-height: normal;
+        font-family: Lucida Sans;
+        font-size: 22px;
+        font-weight: normal;
+        margin-bottom: auto;
+        float: inherit;
+        padding: inherit;
+
+    }
+
+    h1 {
+        color: lightgreen;
+        border-style: solid;
+        border-width: 6px;
+        border-color: teal;
+        text-align: center; 
+        line-height: normal;
+        font-family: Algerian;
+        font-size: 25px;
+        font-weight: bolder;
+     }
+
+     h2 {
+        color: lightgreen; 
+        text-align: center;
+        font-size: 30px;
+        justify-content: flex-end;
+        text-decoration: underline;
+        font-family: Times New Roman;
+     }
+     
+      .zanr {
+        color: black;
+        text-align: center; 
+        line-height: normal;
+        font-family: AR CHRISTY;
+        font-size: 30px;
+        font-weight: bolder;  
+     }
+     
+     footer {
+	color: green;
+        line-height: normal;
+        font-family: AR CHRISTY;
+        font-size: 30px;
+        font-weight: bolder 
+     }
+     
+     i {
+         color: lightblue;
+     }
+     
+     #zaver {
+        color: teal; 
+        text-align: center;
+        font-size: 25px;
+        justify-content: flex-end;
+     }
+  
+     
+     .autor, .zdroj {
+        color: teal;
+        text-align:center; 
+        line-height: 8px;
+        font-family: Adobe Ming Std L;
+        font-size: 12px;
+        font-weight:small;
+     }
+     
+     blockquote {
+        color: green;
+        text-decoration: underline;
+     }
+     
+     a {
+     color: black;
+     text-decoration:underline;
+     }
+
+     a:visited {
+     color: red;
+     }
+
+     a:hover {
+     text-decoration: none;
+     }
